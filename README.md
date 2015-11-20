@@ -34,9 +34,9 @@ Misc
 
 
 
-**Note:** Search tokens (RegEx for priority `/e\:.+u\}/`)
+**Note:** Search tokens (E.g all epic unread: `/e\:.+u\}/`)
 - **{mmm/yy,u}** -> Date included, unread flag
 - **e:** -> epic - read before sleep
 - **c:** -> critical - read before rest (like in a week)
-- **f:** -> fun - read an hibernating bear wakes up
+- **f:** -> fun - read before an hibernating bear wakes up
 - **|1-10|** -> Rating
