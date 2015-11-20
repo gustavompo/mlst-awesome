@@ -4,18 +4,12 @@ Just my own awesome list
 
 ----------
 
-**Note:** Search tokens (RegEx for priority)
-`/e\:.+u\}/`
-
-**{mmm/yy,u}** >> Date included, unread flag
-
-**e:** >> epic - read before sleep
-
-**c:** >> critical - read before rest (like in a week)
-
-**f:** >> fun - read an hibernating bear wakes up
-
-**|1-10|** >> Rating
+**Note:** Search tokens (RegEx for priority `/e\:.+u\}/`)
+- **{mmm/yy,u}** >> Date included, unread flag
+- **e:** >> epic - read before sleep
+- **c:** >> critical - read before rest (like in a week)
+- **f:** >> fun - read an hibernating bear wakes up
+- **|1-10|** >> Rating
 
 NodeJS
 -------------
@@ -23,7 +17,7 @@ NodeJS
 **NGNIX**
 
 - **c:{nov/15}** [Scaling NodeJS WebApplications in production with NGNIX](http://cjihrig.com/blog/scaling-node-js-applications/) 
- > Production and robust architecture using reverse proxy with ngnix ahead of NodeJS applications. #load_balancing #spydy #multicore_nodejs **|9|**
+ > Production and robust architecture using reverse proxy with ngnix ahead of NodeJS applications. tags: #load_balancing #spydy #multicore_nodejs **|9|**
  
 
 - **c:{2015-11}** [12 Reasons Why NGINX is the Standard for Containerized Applications and Deploying Microservices](https://www.nginx.com/blog/12-reasons-why-nginx-is-the-standard-for-containerized-applications-and-deploying-microservices/#gs.rcOL63s) 
@@ -36,9 +30,7 @@ NodeJS
 
 
 **Testing**
-
 - **e:{nov/15}** [SinonJS - great toll for spies, mocks, etc in NodeJS](http://sinonjs.org/)
-> #unit_testing #mock #stub #spy **|9|**
-
+> tags: #unit_testing #mock #stub #spy **|9|**
 - **e:{nov/15}** [Some pain with ES2015 and unit testing in NodeJS](http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-es6-war-story-2?utm_source=nodeweekly&utm_medium=email)
-> #es6 #es2015 #unit_test **|9|**
+> tags: #es6 #es2015 #unit_test **|9|**
