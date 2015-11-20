@@ -4,18 +4,18 @@ Just my own awesome list
 
 ----------
 
-> **Note:** Search tokens (RegEx for priority)
-> `/e\:.+u\}/`
+**Note:** Search tokens (RegEx for priority)
+`/e\:.+u\}/`
 
-> **{mmm/yy,u}** >> Date included, unread flag
+**{mmm/yy,u}** >> Date included, unread flag
 
-> **e:** >> epic - read before sleep
+**e:** >> epic - read before sleep
 
-> **c:** >> critical - read before rest (like in a week)
+**c:** >> critical - read before rest (like in a week)
 
-> **f:** >> fun - read an hibernating bear wakes up
+**f:** >> fun - read an hibernating bear wakes up
 
->**|1-10|** >> Rating
+**|1-10|** >> Rating
 
 NodeJS
 -------------
@@ -39,3 +39,6 @@ NodeJS
 
 - **e:{nov/15}** [SinonJS - great toll for spies, mocks, etc in NodeJS](http://sinonjs.org/)
 > #unit_testing #mock #stub #spy **|9|**
+
+- **e:{nov/15}** [Some pain with ES2015 and unit testing in NodeJS](http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-es6-war-story-2?utm_source=nodeweekly&utm_medium=email)
+> #es6 #es2015 #unit_test **|9|**
