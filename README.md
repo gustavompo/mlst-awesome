@@ -5,6 +5,11 @@ Just my own awesome list
 ----------
 
 
+Javascript
+-------------
+- [Linting javascript with jshint? why not eslint](http://eslint.org/) - **c:{nov/15}**
+ > Improved jshint, capable of linting ES2015 as well. tags: #jshint #lint #sublime #javascript
+
 
 NodeJS
 -------------
