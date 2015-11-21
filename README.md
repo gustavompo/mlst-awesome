@@ -10,6 +10,12 @@ Javascript
 - [Linting javascript with jshint? why not eslint](http://eslint.org/) - **c:{nov/15}**
  > Improved jshint, capable of linting ES2015 as well. tags: #jshint #lint #sublime #javascript
 
+Security
+-------------
+- [Content security policy - HTMLRocks](http://www.html5rocks.com/en/tutorials/security/content-security-policy/) - **c:{nov/15}**
+ > XSS avoidance with content security policy (CSP). [Here is the Twitter case](https://blog.twitter.com/2011/improving-browser-security-with-csp). tags: #security #xss #csp
+
+
 
 NodeJS
 -------------
