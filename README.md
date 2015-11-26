@@ -10,6 +10,10 @@ Javascript
 - [Linting javascript with jshint? why not eslint](http://eslint.org/) - **c:{nov/15}**
  > Improved jshint, capable of linting ES2015 as well. tags: #jshint #lint #sublime #javascript
 
+- [Codeclimate](https://github.com/codeclimate/codeclimate) - **c:{nov/15}**
+ > tags: #jshint #lint #best-practices #javascript
+
+
 Security
 -------------
 - [Content security policy - HTMLRocks](http://www.html5rocks.com/en/tutorials/security/content-security-policy/) - **c:{nov/15}**
@@ -31,6 +35,10 @@ NodeJS
 - [Raw NodeJS against NGNIX for static files](http://stackoverflow.com/questions/9967887/node-js-itself-or-nginx-frontend-for-serving-static-files) - **f:{nov/15}** 
 > Just a comparison of a well configured NGNIX and a NodeJS express webapp serving static content.
 
+**Profiling**
+- [Pretty short article on NodeJS profiling with --prof](https://developer.atlassian.com/blog/2015/10/profiling-node-apps/?utm_source=nodeweekly&utm_medium=email) - **e:{oct/15}** 
+> tags: #performance #profiling #nodejs **|7|**
+
 
 **Testing**
 
@@ -39,9 +47,20 @@ NodeJS
 - [Some pain with ES2015 and unit testing in NodeJS](http://www.technology-ebay.de/the-teams/mobile-de/blog/nodejs-es6-war-story-2?utm_source=nodeweekly&utm_medium=email) - **e:{nov/15}** 
 > tags: #es6 #es2015 #unit_test **|9|**
 
+Microservices
+-------------
+- [Short article on Microservices - Scala, AWS and Docker](http://www.infoq.com/news/2015/04/scaling-microservices-gilt) - **f:{apr/15}** 
+> tags: #microservices #scala #aws #docker **|7|**
+
+
 Misc
 -------------
 - [Url Obfuscation](http://www.pc-help.org/obscure.htm) - Just make your URLs completelly illegible **f:{nov/15}** 
+- [Step by Step on NodeJS and Jenkins](https://strongloop.com/strongblog/roll-your-own-node-js-ci-server-with-jenkins-part-1/) - **e:{oct/15}** 
+> tags: #ci #integration #nodejs **|8|**
+
+
+
 
 
 
