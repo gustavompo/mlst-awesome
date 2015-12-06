@@ -16,8 +16,6 @@ Javascript
 - [JS DevTools](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.ma642rs7p) - **c:{dez/15}**
  > tags: #devtools 
 
-
-
 - [Remote debugging in Chrome](https://developer.chrome.com/devtools/docs/remote-debugging) - **c:{nov/15}**
  > tags: #chrome #debugging #mobile #devtools
 
@@ -48,6 +46,10 @@ NodeJS
 > Another tendencious article (from ngnix itself) focusing performance tips on caching and static content in nodejs webapps. #caching **|8|**
 - [Raw NodeJS against NGNIX for static files](http://stackoverflow.com/questions/9967887/node-js-itself-or-nginx-frontend-for-serving-static-files) - **f:{nov/15}** 
 > Just a comparison of a well configured NGNIX and a NodeJS express webapp serving static content.
+
+- [Nodemon - Watch changes in source files and restart the server](http://nodemon.io/) - **c:{dez/15}**
+ > tags: #nodejs #nodemon
+
 
 **Profiling**
 - [Pretty short article on NodeJS profiling with --prof](https://developer.atlassian.com/blog/2015/10/profiling-node-apps/?utm_source=nodeweekly&utm_medium=email) - **e:{oct/15}** 
