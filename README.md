@@ -13,6 +13,11 @@ Javascript
 - [Codeclimate](https://github.com/codeclimate/codeclimate) - **c:{nov/15}**
  > tags: #jshint #lint #best-practices #javascript
 
+- [JS DevTools](https://medium.com/javascript-scene/must-see-javascript-dev-tools-that-put-other-dev-tools-to-shame-aca6d3e3d925#.ma642rs7p) - **c:{dez/15}**
+ > tags: #devtools 
+
+
+
 - [Remote debugging in Chrome](https://developer.chrome.com/devtools/docs/remote-debugging) - **c:{nov/15}**
  > tags: #chrome #debugging #mobile #devtools
 
