@@ -13,6 +13,15 @@ Javascript
 - [Codeclimate](https://github.com/codeclimate/codeclimate) - **c:{nov/15}**
  > tags: #jshint #lint #best-practices #javascript
 
+- [Remote debugging in Chrome](https://developer.chrome.com/devtools/docs/remote-debugging) - **c:{nov/15}**
+ > tags: #chrome #debugging #mobile #devtools
+
+- [Setting up Babel 6](http://www.2ality.com/2015/11/configuring-babel6.html?utm_source=javascriptweekly&utm_medium=email) - **c:{dez/15}**
+ > tags: #es2015 #es6 #babel
+
+- [React + Redux + Immutable (TODO APP)](http://www.sitepoint.com/how-to-build-a-todo-app-using-react-redux-and-immutable-js/?utm_source=javascriptweekly&utm_medium=email) - **c:{dez/15}**
+ > tags: #react #redux #immutable #es2015
+
 
 Security
 -------------
