@@ -6,8 +6,8 @@ Just my own awesome list
 
 Frontend
 ------------
-- [Admin/Dashboard theme - StartBootstrap SBAdmin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) - **f{01/2014}**
-  > tags: #theme #css
+- [Admin/Dashboard theme - StartBootstrap SBAdmin 2](http://startbootstrap.com/template-overviews/sb-admin-2/) - **f:{01/2014}**
+ > tags: #theme #css
 
 
 Javascript
@@ -39,7 +39,7 @@ Security
 - [Cookie vs JTW - Hello world with AngularJS](https://auth0.com/blog/2014/01/07/angularjs-authentication-with-cookies-vs-token/) - **c{jan/2014}**
   > tags #jwt #json_web_token
 
--[Authentication in Single Page Applications With Angular.js](http://frederiknakstad.com/2013/01/21/authentication-in-single-page-applications-with-angular-js/) **c:{jan/2013}**
+- [Authentication in Single Page Applications With Angular.js](http://frederiknakstad.com/2013/01/21/authentication-in-single-page-applications-with-angular-js/) **c:{jan/2013}**
 > tags #jwt #json_web_token
 NodeJS
 -------------
